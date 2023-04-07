@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Ch5_TestNG_Task" />
+        <module name="Ch6_Selenium_Commands" />
       </profile>
     </annotationProcessing>
   </component>
